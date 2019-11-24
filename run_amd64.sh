@@ -19,7 +19,7 @@ sudo apt install -f -y i3 suckless-tools i3blocks xorg software-properties-commo
 
 ### installing Browser
 #chromium replaced with firefox
-sudo apt install -f -y firefox
+sudo apt install -f -y firefox-esr
 
 ### creating dirs like "Pictures", "Downloads" etc.
 xdg-user-dirs-update
